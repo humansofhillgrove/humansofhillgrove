@@ -1,21 +1,205 @@
-#u86
+#u362
 {
+	border-style: none;
+	border-color: transparent;
+	background-color: #CDDC39;
+	position: fixed;
+}
+
+#pamphletu363
+{
+	position: fixed;
+}
+
+#u371
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u372
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #1DE9B6;
+	position: relative;
+}
+
+#u377
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#buttonu386
+{
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 }
 
-#u92-9
+#buttonu386:hover
 {
-	background-color: transparent;
-	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
-	position: relative;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF5722;
 }
 
-#u107-4
+#u389-4
 {
 	background-color: transparent;
 	text-align: center;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u389-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u387
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#buttonu386:hover #u387
+{
+	background-color: transparent;
+}
+
+#buttonu386:active #u387
+{
+	background-color: transparent;
+}
+
+#buttonu382
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu382:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF5722;
+}
+
+#buttonu386.ButtonSelected,#buttonu382.ButtonSelected
+{
+	background-color: #3F51B5;
+}
+
+#u383-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu386.ButtonSelected #u389-4 p,#buttonu386.ButtonSelected #u389-4 span,#buttonu382.ButtonSelected #u383-4 p,#buttonu382.ButtonSelected #u383-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u383-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u384
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#u387::before,#u384::before
+{
+	box-shadow: none;
+}
+
+#buttonu386.ButtonSelected #u387,#buttonu382:hover #u384
+{
+	background-color: transparent;
+}
+
+#buttonu382:active #u384
+{
+	background-color: transparent;
+}
+
+#buttonu382.ButtonSelected #u384
+{
+	background-color: transparent;
+}
+
+#u366
+{
+	position: relative;
+}
+
+#u367
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u367.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u439,#u368
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u370-4
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u370-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u389,#u383,#u370
+{
+	line-height: 19px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u448
+{
+	background-color: transparent;
 	position: relative;
 }
 
