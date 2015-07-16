@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000018;
-	background-color: #8E871D;
+	color: #000011;
+	background-color: #65E49B;
 }
 
 .html
@@ -315,20 +315,28 @@
 	background-color: transparent;
 }
 
-#u464-2,#u464-3
+#u464-2
 {
 	font-size: 36px;
 	line-height: 43px;
-	font-family: europa, sans-serif;
-	font-weight: 300;
+	font-family: fira-sans-2, sans-serif;
+	font-weight: 500;
+}
+
+#u464-3
+{
+	font-size: 36px;
+	line-height: 43px;
+	font-family: fira-sans-2, sans-serif;
+	font-weight: 600;
 }
 
 #u464-5
 {
 	font-size: 50px;
 	line-height: 60px;
-	font-family: europa, sans-serif;
-	font-weight: 400;
+	font-family: fira-sans-2, sans-serif;
+	font-weight: 600;
 }
 
 #u533

@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000F0;
-	background-color: #C1A501;
+	color: #000002;
+	background-color: #4F39B2;
 }
 
 .html
@@ -53,6 +53,8 @@
 	text-align: center;
 	font-size: 24px;
 	line-height: 29px;
+	font-family: fira-sans-2, sans-serif;
+	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 236px;
