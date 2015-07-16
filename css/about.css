@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000FA;
-	background-color: #0F2F0C;
+	color: #0000F0;
+	background-color: #EF77CB;
 }
 
 .html
@@ -33,7 +33,7 @@
 #pu362
 {
 	width: 0.01px;
-	padding-bottom: 82px;
+	padding-bottom: 470px;
 	margin-left: -100px;
 }
 
@@ -54,6 +54,7 @@
 	z-index: 15;
 	width: 0.01px;
 	height: 82px;
+	padding-bottom: 388px;
 	top: 0px;
 	right: 1160px;
 }
@@ -74,20 +75,20 @@
 {
 	z-index: 17;
 	width: 314px;
-	height: 306px;
+	height: 388px;
 	margin-right: -10000px;
 }
 
 #u377
 {
-	z-index: 32;
+	z-index: 39;
 	width: 314px;
 	padding-bottom: 17px;
 }
 
 #u439
 {
-	z-index: 33;
+	z-index: 40;
 	width: 108px;
 	margin-right: -10000px;
 	margin-top: 17px;
@@ -96,7 +97,7 @@
 
 #buttonu386
 {
-	z-index: 18;
+	z-index: 25;
 	width: 314px;
 	padding-bottom: 24px;
 }
@@ -110,7 +111,7 @@
 
 #u389-4
 {
-	z-index: 19;
+	z-index: 26;
 	width: 122px;
 	min-height: 24px;
 	margin-right: -10000px;
@@ -129,7 +130,7 @@
 
 #u387
 {
-	z-index: 23;
+	z-index: 30;
 	width: 17px;
 	margin-right: -10000px;
 	margin-top: 24px;
@@ -152,7 +153,7 @@
 
 #buttonu382
 {
-	z-index: 25;
+	z-index: 32;
 	width: 314px;
 	padding-bottom: 24px;
 }
@@ -164,16 +165,9 @@
 	margin: 0px;
 }
 
-#buttonu382.ButtonSelected
-{
-	width: 314px;
-	min-height: 0px;
-	margin: 0px;
-}
-
 #u383-4
 {
-	z-index: 26;
+	z-index: 33;
 	width: 122px;
 	min-height: 24px;
 	margin-right: -10000px;
@@ -190,18 +184,9 @@
 	margin: 34px -10000px 0px 0px;
 }
 
-#buttonu382.ButtonSelected #u383-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	width: 122px;
-	margin: 34px -10000px 0px 0px;
-}
-
 #u384
 {
-	z-index: 30;
+	z-index: 37;
 	width: 17px;
 	margin-right: -10000px;
 	margin-top: 24px;
@@ -222,7 +207,79 @@
 	margin: 24px -10000px 0px 0px;
 }
 
-#buttonu382.ButtonSelected #u384
+#buttonu571
+{
+	z-index: 18;
+	width: 314px;
+	padding-bottom: 24px;
+}
+
+#buttonu382.ButtonSelected,#buttonu571:hover
+{
+	width: 314px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu571.ButtonSelected
+{
+	width: 314px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u572-4
+{
+	z-index: 19;
+	width: 122px;
+	min-height: 24px;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu382.ButtonSelected #u383-4,#buttonu571:hover #u572-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#buttonu571.ButtonSelected #u572-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 122px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u573
+{
+	z-index: 23;
+	width: 17px;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu382.ButtonSelected #u384,#buttonu571:hover #u573
+{
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu571:active #u573
+{
+	width: 17px;
+	min-height: 0px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu571.ButtonSelected #u573
 {
 	width: 17px;
 	min-height: 0px;
@@ -231,7 +288,7 @@
 
 #u366
 {
-	z-index: 35;
+	z-index: 42;
 	width: 1160px;
 	padding-bottom: 82px;
 	margin-right: -10000px;
@@ -254,7 +311,7 @@
 
 #u448
 {
-	z-index: 37;
+	z-index: 44;
 	width: 297px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -277,7 +334,7 @@
 
 #u368
 {
-	z-index: 39;
+	z-index: 46;
 	width: 150px;
 	margin-right: -10000px;
 	left: 15px;
@@ -292,7 +349,7 @@
 
 #u370-4
 {
-	z-index: 41;
+	z-index: 48;
 	width: 111px;
 	min-height: 27px;
 	margin-right: -10000px;
@@ -312,7 +369,7 @@
 {
 	width: 0.01px;
 	margin-left: 206px;
-	margin-top: 27px;
+	margin-top: -361px;
 }
 
 #pu488-4
@@ -323,11 +380,11 @@
 
 #u488-4
 {
-	z-index: 45;
+	z-index: 52;
 	width: 549px;
 	min-height: 70px;
-	line-height: 66px;
 	color: #FFFFFF;
+	line-height: 66px;
 	text-align: center;
 	font-size: 55px;
 	font-family: Courier New, Courier, monospace;
@@ -337,7 +394,7 @@
 
 #u494
 {
-	z-index: 49;
+	z-index: 56;
 	width: 315px;
 	background-color: transparent;
 	margin-left: 117px;
@@ -347,7 +404,7 @@
 
 #u504
 {
-	z-index: 67;
+	z-index: 74;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -367,7 +424,7 @@
 
 #u500-16
 {
-	z-index: 51;
+	z-index: 58;
 	width: 920px;
 	min-height: 70px;
 	color: #FFFFFF;
@@ -388,7 +445,7 @@
 
 #u506
 {
-	z-index: 68;
+	z-index: 75;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;

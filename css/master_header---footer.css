@@ -96,22 +96,11 @@
 	background-color: #FF5722;
 }
 
-#buttonu386.ButtonSelected,#buttonu382.ButtonSelected
-{
-	background-color: #3F51B5;
-}
-
 #u383-4
 {
 	background-color: transparent;
 	text-align: center;
 	position: relative;
-}
-
-#buttonu386.ButtonSelected #u389-4 p,#buttonu386.ButtonSelected #u389-4 span,#buttonu382.ButtonSelected #u383-4 p,#buttonu382.ButtonSelected #u383-4 span
-{
-	color: #FFFFFF;
-	visibility: inherit;
 }
 
 #u383-2
@@ -130,11 +119,6 @@
 	position: relative;
 }
 
-#u387::before,#u384::before
-{
-	box-shadow: none;
-}
-
 #buttonu386.ButtonSelected #u387,#buttonu382:hover #u384
 {
 	background-color: transparent;
@@ -145,7 +129,71 @@
 	background-color: transparent;
 }
 
-#buttonu382.ButtonSelected #u384
+#buttonu571
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu571:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF5722;
+}
+
+#buttonu386.ButtonSelected,#buttonu382.ButtonSelected,#buttonu571.ButtonSelected
+{
+	background-color: #3F51B5;
+}
+
+#u572-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#buttonu386.ButtonSelected #u389-4 p,#buttonu386.ButtonSelected #u389-4 span,#buttonu382.ButtonSelected #u383-4 p,#buttonu382.ButtonSelected #u383-4 span,#buttonu571.ButtonSelected #u572-4 p,#buttonu571.ButtonSelected #u572-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u572-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u573
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+}
+
+#u387::before,#u384::before,#u573::before
+{
+	box-shadow: none;
+}
+
+#buttonu382.ButtonSelected #u384,#buttonu571:hover #u573
+{
+	background-color: transparent;
+}
+
+#buttonu571:active #u573
+{
+	background-color: transparent;
+}
+
+#buttonu571.ButtonSelected #u573
 {
 	background-color: transparent;
 }
@@ -193,7 +241,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u389,#u383,#u370
+#u389,#u383,#u572,#u370
 {
 	line-height: 19px;
 }
