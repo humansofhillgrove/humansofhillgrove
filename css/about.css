@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000007;
-	background-color: #13FBEA;
+	color: #0000FA;
+	background-color: #0F2F0C;
 }
 
 .html
@@ -55,7 +55,7 @@
 	width: 0.01px;
 	height: 82px;
 	top: 0px;
-	right: 313px;
+	right: 1160px;
 }
 
 #u371popup
@@ -67,7 +67,7 @@
 {
 	width: 314px;
 	top: 82px;
-	left: -1px;
+	left: 846px;
 }
 
 #u372
@@ -232,50 +232,71 @@
 #u366
 {
 	z-index: 35;
-	width: 313px;
+	width: 1160px;
 	padding-bottom: 82px;
 	margin-right: -10000px;
 }
 
 #u367
 {
-	width: 313px;
-	padding-bottom: 24px;
+	width: 1160px;
+	padding-bottom: 3px;
 	top: 0px;
 	right: 0px;
 }
 
 #u367.PamphletThumbSelected
 {
-	width: 313px;
+	width: 1160px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u368
+#u448
 {
 	z-index: 37;
-	width: 150px;
+	width: 297px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
+#u367.PamphletThumbSelected #u448
+{
+	width: 297px;
+	min-height: 0px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#pu368
+{
+	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 24px;
-	left: 110px;
+	margin-left: 942px;
+}
+
+#u368
+{
+	z-index: 39;
+	width: 150px;
+	margin-right: -10000px;
+	left: 15px;
 }
 
 #u367.PamphletThumbSelected #u368
 {
 	width: 150px;
 	min-height: 0px;
-	margin: 24px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u370-4
 {
-	z-index: 39;
+	z-index: 41;
 	width: 111px;
 	min-height: 27px;
 	margin-right: -10000px;
-	margin-top: 31px;
-	left: 95px;
+	margin-top: 7px;
 }
 
 #u367.PamphletThumbSelected #u370-4
@@ -284,16 +305,7 @@
 	padding-bottom: 0px;
 	min-height: 27px;
 	width: 111px;
-	margin: 31px -10000px 0px 0px;
-}
-
-#u448
-{
-	z-index: 43;
-	width: 297px;
-	left: -100px;
-	top: -77px;
-	margin-bottom: -74px;
+	margin: 7px -10000px 0px 0px;
 }
 
 #ppu488-4
