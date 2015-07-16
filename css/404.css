@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000EB;
-	background-color: #9C9E06;
+	color: #0000E3;
+	background-color: #D401CE;
 }
 
 .html
@@ -291,7 +291,7 @@
 #u367
 {
 	width: 1160px;
-	padding-bottom: 3px;
+	padding-bottom: 4px;
 	top: 0px;
 	right: 0px;
 }
@@ -306,25 +306,17 @@
 #u448
 {
 	z-index: 44;
-	width: 297px;
+	width: 299px;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 92px;
+	margin-top: 3px;
+	left: 702px;
 }
 
 #u367.PamphletThumbSelected #u448
 {
-	width: 297px;
+	width: 299px;
 	min-height: 0px;
-	margin: 5px -10000px 0px 0px;
-}
-
-#pu368
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 24px;
-	margin-left: 942px;
+	margin: 3px -10000px 0px 0px;
 }
 
 #u368
@@ -332,51 +324,34 @@
 	z-index: 46;
 	width: 150px;
 	margin-right: -10000px;
-	left: 15px;
+	margin-top: 24px;
+	left: 957px;
 }
 
 #u367.PamphletThumbSelected #u368
 {
 	width: 150px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u370-4
-{
-	z-index: 48;
-	width: 111px;
-	min-height: 27px;
-	margin-right: -10000px;
-	margin-top: 7px;
-}
-
-#u367.PamphletThumbSelected #u370-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 27px;
-	width: 111px;
-	margin: 7px -10000px 0px 0px;
+	margin: 24px -10000px 0px 0px;
 }
 
 #u541-4
 {
-	z-index: 52;
+	z-index: 48;
 	width: 515px;
 	min-height: 29px;
 	background-color: transparent;
 	color: #FF0000;
-	text-align: center;
-	text-transform: uppercase;
+	text-align: left;
 	line-height: 29px;
+	text-transform: uppercase;
 	font-size: 24px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 236px;
-	left: 223px;
+	margin-top: 235px;
+	left: 20px;
 }
 
 #pu486-4

@@ -168,6 +168,11 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
+#u389,#u383,#u572
+{
+	line-height: 19px;
+}
+
 #u573
 {
 	border-style: none;
@@ -228,22 +233,6 @@
 {
 	background-color: transparent;
 	position: relative;
-}
-
-#u370-4
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u370-2
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u389,#u383,#u572,#u370
-{
-	line-height: 19px;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
