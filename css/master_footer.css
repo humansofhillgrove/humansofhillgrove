@@ -5,17 +5,17 @@
 	position: relative;
 }
 
-#u519,#u525
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u487-4
 {
 	background-color: transparent;
 	text-align: right;
 	color: #FFFFFF;
+	position: relative;
+}
+
+#u519,#u525
+{
+	background-color: transparent;
 	position: relative;
 }
 

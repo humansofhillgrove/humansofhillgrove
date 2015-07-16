@@ -170,7 +170,7 @@
 	background-color: transparent;
 }
 
-#u448,#u439,#u368
+#u439,#u368
 {
 	background-color: transparent;
 	position: relative;
@@ -195,5 +195,11 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
+}
+
+#u448
+{
+	background-color: transparent;
+	position: relative;
 }
 

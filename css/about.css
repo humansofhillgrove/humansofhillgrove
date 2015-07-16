@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000E9;
-	background-color: #955F6A;
+	color: #000007;
+	background-color: #13FBEA;
 }
 
 .html
@@ -314,12 +314,12 @@
 	z-index: 45;
 	width: 549px;
 	min-height: 70px;
+	line-height: 66px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 55px;
-	line-height: 66px;
-	font-family: fira-sans-2, sans-serif;
-	font-weight: 600;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
 	position: relative;
 }
 
@@ -359,11 +359,10 @@
 	width: 920px;
 	min-height: 70px;
 	color: #FFFFFF;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
-	font-family: fira-sans-2, sans-serif;
-	font-weight: 500;
+	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
 }

@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #0000E8;
-	background-color: #9D477C;
+	color: #000010;
+	background-color: #16E519;
 }
 
 .html
@@ -299,17 +299,26 @@
 {
 	z-index: 45;
 	width: 515px;
-	min-height: 51px;
+	min-height: 37px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
-	font-family: fira-sans-2, sans-serif;
-	font-weight: 600;
+	font-family: Courier New, Courier, monospace;
 	margin-left: 223px;
 	margin-top: 36px;
 	position: relative;
+}
+
+#u509-4:hover
+{
+	background-color: #0091EA;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 37px;
+	width: 515px;
+	margin: 36px 0px 0px 223px;
 }
 
 #u510
@@ -322,6 +331,14 @@
 	position: relative;
 }
 
+#u510:hover
+{
+	background-color: #0091EA;
+	width: 515px;
+	min-height: 0px;
+	margin: 20px 0px 0px 223px;
+}
+
 #u513
 {
 	z-index: 51;
@@ -330,6 +347,14 @@
 	margin-left: 382px;
 	margin-top: 20px;
 	position: relative;
+}
+
+#u513:hover
+{
+	background-color: #0091EA;
+	width: 196px;
+	min-height: 0px;
+	margin: 20px 0px 0px 382px;
 }
 
 #pu486-4
