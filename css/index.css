@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #D27207;
+	color: #000000;
+	background-color: #8D9308;
 }
 
 .html
@@ -309,6 +309,7 @@
 	width: 297px;
 	margin-right: -10000px;
 	margin-top: 5px;
+	left: 92px;
 }
 
 #u367.PamphletThumbSelected #u448

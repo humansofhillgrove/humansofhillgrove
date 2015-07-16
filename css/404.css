@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000E3;
-	background-color: #E4B92B;
+	color: #0000EB;
+	background-color: #9C9E06;
 }
 
 .html
@@ -309,6 +309,7 @@
 	width: 297px;
 	margin-right: -10000px;
 	margin-top: 5px;
+	left: 92px;
 }
 
 #u367.PamphletThumbSelected #u448
@@ -366,9 +367,9 @@
 	min-height: 29px;
 	background-color: transparent;
 	color: #FF0000;
-	line-height: 29px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 29px;
 	font-size: 24px;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;

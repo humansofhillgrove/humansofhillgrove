@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000F0;
-	background-color: #EF77CB;
+	color: #000009;
+	background-color: #8D35E6;
 }
 
 .html
@@ -315,6 +315,7 @@
 	width: 297px;
 	margin-right: -10000px;
 	margin-top: 5px;
+	left: 92px;
 }
 
 #u367.PamphletThumbSelected #u448
@@ -383,8 +384,8 @@
 	z-index: 52;
 	width: 549px;
 	min-height: 70px;
-	color: #FFFFFF;
 	line-height: 66px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 55px;
 	font-family: Courier New, Courier, monospace;

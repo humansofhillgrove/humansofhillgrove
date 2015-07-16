@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="humanofhillgrove.mfdbyroy.ml" resolutions="1x" timestamp="1437058139493">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="humanofhillgrove.mfdbyroy.ml" resolutions="1x" timestamp="1437059001782">
   <folder name="css">
     <file name="site_global.css" crc="3854026573"/>
     <file name="master_header---footer.css" crc="3882717752" ref="index:404:about:contact-us"/>
     <file name="master_footer.css" crc="4018350616" ref="index:404:about:contact-us"/>
-    <file name="index.css" crc="3805442567" ref="index"/>
-    <file name="404.css" crc="3823417643" ref="404"/>
-    <file name="about.css" crc="4042225611" ref="about"/>
-    <file name="contact-us.css" crc="491435826" ref="contact-us"/>
+    <file name="index.css" crc="9278216" ref="index"/>
+    <file name="404.css" crc="3952909830" ref="404"/>
+    <file name="about.css" crc="160249318" ref="about"/>
+    <file name="contact-us.css" crc="247868770" ref="contact-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:contact-us:404"/>
@@ -27,8 +27,8 @@
     <file name="hoh_tpwhite.png" crc="244354098" seo="true" ref="about"/>
     <file name="logotp.png" crc="256733560" seo="true" ref="contact-us"/>
   </folder>
-  <file name="index.html" crc="4053128476" seo="true" mt="1437058124586" redirect="true"/>
-  <file name="about.html" crc="4207597143" seo="true" mt="1437058124586" redirect="true"/>
-  <file name="contact-us.html" crc="3863652132" seo="true" mt="1437058124586" redirect="true"/>
-  <file name="404.html" crc="203379629" seo="true" mt="1437058124586" redirect="true"/>
+  <file name="index.html" crc="4053128476" seo="true" mt="1437058988724" redirect="true"/>
+  <file name="about.html" crc="4207597143" seo="true" mt="1437058988724" redirect="true"/>
+  <file name="contact-us.html" crc="3863652132" seo="true" mt="1437058988724" redirect="true"/>
+  <file name="404.html" crc="203379629" seo="true" mt="1437058988724" redirect="true"/>
 </manifest>
