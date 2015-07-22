@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000E3;
-	background-color: #D401CE;
+	color: #000006;
+	background-color: #0354D9;
 }
 
 .html
@@ -341,11 +341,11 @@
 	width: 515px;
 	min-height: 29px;
 	background-color: transparent;
-	color: #FF0000;
-	text-align: left;
-	line-height: 29px;
 	text-transform: uppercase;
+	text-align: left;
 	font-size: 24px;
+	line-height: 29px;
+	color: #FF0000;
 	font-family: Courier New, Courier, monospace;
 	font-weight: bold;
 	position: relative;

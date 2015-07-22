@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FE;
-	background-color: #8D934F;
+	color: #000006;
+	background-color: #DC843F;
 }
 
 .html
@@ -340,8 +340,8 @@
 	z-index: 48;
 	width: 727px;
 	min-height: 71px;
-	color: #FFFFFF;
 	text-align: left;
+	color: #FFFFFF;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;

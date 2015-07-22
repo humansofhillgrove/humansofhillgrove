@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #0000EC;
-	background-color: #F5EF79;
+	color: #0000FF;
+	background-color: #659DBD;
 }
 
 .html
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 500px;
+	min-height: 499.99459344076524px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -38,7 +39,7 @@
 
 #u628
 {
-	z-index: 22;
+	z-index: 20;
 	height: 82px;
 	border-style: none;
 	border-color: transparent;
@@ -49,12 +50,12 @@
 
 #u628-bw
 {
-	z-index: 22;
+	z-index: 20;
 }
 
 #pamphletu629
 {
-	z-index: 23;
+	z-index: 21;
 	width: 0.01px;
 	height: 82px;
 	padding-bottom: 388px;
@@ -74,12 +75,12 @@
 
 #u632popup
 {
-	z-index: 24;
+	z-index: 22;
 }
 
 #u633
 {
-	z-index: 25;
+	z-index: 23;
 	width: 314px;
 	height: 388px;
 	border-style: none;
@@ -91,7 +92,7 @@
 
 #u642
 {
-	z-index: 47;
+	z-index: 45;
 	width: 314px;
 	border-style: none;
 	border-color: transparent;
@@ -102,7 +103,7 @@
 
 #u647
 {
-	z-index: 48;
+	z-index: 46;
 	width: 108px;
 	background-color: transparent;
 	position: relative;
@@ -113,7 +114,7 @@
 
 #buttonu638
 {
-	z-index: 33;
+	z-index: 31;
 	width: 314px;
 	border-style: none;
 	border-color: transparent;
@@ -124,7 +125,7 @@
 
 #u639-4
 {
-	z-index: 34;
+	z-index: 32;
 	width: 122px;
 	min-height: 24px;
 	background-color: transparent;
@@ -146,7 +147,7 @@
 
 #u640
 {
-	z-index: 38;
+	z-index: 36;
 	width: 17px;
 	border-style: none;
 	background-color: transparent;
@@ -177,7 +178,7 @@
 
 #buttonu643
 {
-	z-index: 40;
+	z-index: 38;
 	width: 314px;
 	border-style: none;
 	border-color: transparent;
@@ -188,7 +189,7 @@
 
 #u646-4
 {
-	z-index: 41;
+	z-index: 39;
 	width: 122px;
 	min-height: 24px;
 	background-color: transparent;
@@ -210,7 +211,7 @@
 
 #u644
 {
-	z-index: 45;
+	z-index: 43;
 	width: 17px;
 	border-style: none;
 	background-color: transparent;
@@ -241,7 +242,7 @@
 
 #buttonu634
 {
-	z-index: 26;
+	z-index: 24;
 	width: 314px;
 	border-style: none;
 	border-color: transparent;
@@ -270,7 +271,7 @@
 
 #u637-4
 {
-	z-index: 27;
+	z-index: 25;
 	width: 122px;
 	min-height: 24px;
 	background-color: transparent;
@@ -318,7 +319,7 @@
 
 #u635
 {
-	z-index: 31;
+	z-index: 29;
 	width: 17px;
 	border-style: none;
 	background-color: transparent;
@@ -362,7 +363,7 @@
 
 #u649
 {
-	z-index: 50;
+	z-index: 48;
 	width: 1160px;
 	padding-bottom: 82px;
 	position: relative;
@@ -393,7 +394,7 @@
 
 #u653
 {
-	z-index: 52;
+	z-index: 50;
 	width: 299px;
 	background-color: transparent;
 	position: relative;
@@ -404,7 +405,7 @@
 
 #u651
 {
-	z-index: 54;
+	z-index: 52;
 	width: 150px;
 	background-color: transparent;
 	position: relative;
@@ -425,40 +426,13 @@
 	cursor: pointer;
 }
 
-#u509-4
+#u510
 {
 	z-index: 14;
 	width: 515px;
-	min-height: 37px;
-	background-color: transparent;
-	color: #FFFFFF;
-	text-align: left;
-	font-size: 30px;
-	line-height: 36px;
-	font-family: Courier New, Courier, monospace;
-	margin-left: 20px;
-	top: -372px;
-	margin-bottom: -37px;
-	position: relative;
-}
-
-#u509-4:hover
-{
-	background-color: #0091EA;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 37px;
-	width: 515px;
-	margin: 0px 0px -37px 20px;
-}
-
-#u510
-{
-	z-index: 18;
-	width: 515px;
 	background-color: transparent;
 	margin-left: 20px;
-	top: -325px;
+	top: -367px;
 	margin-bottom: -129px;
 	position: relative;
 }
@@ -471,15 +445,20 @@
 	margin: 0px 0px -129px 20px;
 }
 
+#pu513
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: -228px;
+}
+
 #u513
 {
-	z-index: 20;
+	z-index: 16;
 	width: 196px;
 	background-color: transparent;
-	margin-left: 20px;
-	top: -186px;
-	margin-bottom: -186px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u513:hover
@@ -487,13 +466,23 @@
 	background-color: #0091EA;
 	width: 196px;
 	min-height: 0px;
-	margin: 0px 0px -186px 20px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u665
+{
+	z-index: 18;
+	width: 153px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 206px;
 }
 
 #pu486-4
 {
 	width: 0.01px;
-	margin-top: 42px;
+	margin-top: 46px;
 }
 
 #u486-4
