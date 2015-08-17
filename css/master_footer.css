@@ -1,21 +1,13 @@
-#u486-4
+#u79
 {
-	background-color: transparent;
-	color: #FFFFFF;
-	position: relative;
+	background-color: #CDDC39;
 }
 
-#u519,#u525
+#u80-4
 {
 	background-color: transparent;
-	position: relative;
-}
-
-#u487-4
-{
-	background-color: transparent;
-	text-align: right;
-	color: #FFFFFF;
-	position: relative;
+	text-align: center;
+	font-family: europa, sans-serif;
+	font-weight: 300;
 }
 

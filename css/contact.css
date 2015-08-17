@@ -1,7 +1,7 @@
-.version.about /* version checker */
+.version.contact /* version checker */
 {
-	color: #00001C;
-	background-color: #133948;
+	color: #000005;
+	background-color: #DA71D4;
 }
 
 .html
@@ -147,83 +147,64 @@
 	margin-top: -11px;
 }
 
-#u164-4
+#u180-9
 {
 	z-index: 24;
-	min-height: 41px;
-	background-color: #FFFFFF;
-	background-color: rgba(255,255,255,0.5);
+	min-height: 94px;
+	background-color: transparent;
+	line-height: 47px;
 	text-align: center;
-	font-size: 35px;
-	line-height: 42px;
-	font-family: abel, sans-serif;
-	font-weight: 400;
-	-pie-background: rgba(255,255,255,0.5);
+	font-size: 39px;
+	font-family: Courier New, Courier, monospace;
 }
 
-#u164-4-bw
+#u180-2,#u180-3,#u180-4
+{
+	color: #FFFFFF;
+}
+
+#u180-9-bw
 {
 	z-index: 24;
-	min-height: 41px;
-	margin-top: 42px;
+	min-height: 94px;
+	margin-top: 59px;
 }
 
-#u167
-{
-	z-index: 47;
-	height: 3px;
-	background-color: #FFFFFF;
-	background-color: rgba(255,255,255,0.75);
-	-pie-background: rgba(255,255,255,0.75);
-}
-
-#u167-bw
-{
-	z-index: 47;
-	margin-top: 17px;
-	height: 3px;
-}
-
-#pu165-19
+#pu193
 {
 	width: 0.01px;
-	margin-left: -100px;
-	margin-top: 18px;
+	margin-left: 130px;
+	margin-top: 41px;
 }
 
-#u165-19
+#u193
 {
-	z-index: 28;
-	width: 796px;
-	background-color: #FFFFFF;
-	background-color: rgba(255,255,255,0.5);
-	color: #000000;
-	line-height: 30px;
-	text-align: center;
-	font-size: 25px;
-	font-family: Courier New, Courier, monospace;
+	z-index: 37;
+	width: 170px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	-pie-background: rgba(255,255,255,0.5);
+	margin-top: 5px;
 }
 
-#u168
+#u181
 {
-	z-index: 48;
-	width: 236px;
+	z-index: 33;
+	width: 179px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 824px;
-	background: #FFFFFF url("../images/hoh-u168-fr.png") no-repeat center center;
-	background-color: rgba(255,255,255,0.5);
-	background-size: cover;
+	left: 252px;
 }
 
-#u168_img
+#u187
 {
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
+	z-index: 35;
+	width: 179px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 513px;
 }
 
 #pu79

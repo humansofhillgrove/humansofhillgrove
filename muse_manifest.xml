@@ -1,35 +1,32 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="humanofhillgrove.mfdbyroy.ml" resolutions="1x" timestamp="1437649543904">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="humansofhillgrove.mfdbyroy.ml" resolutions="1x" timestamp="1439823440743">
   <folder name="css">
-    <file name="site_global.css" crc="3854026573"/>
-    <file name="master_header---footer.css" crc="4058032532" ref="index:404"/>
-    <file name="master_footer.css" crc="4018350616" ref="index:404:about:contact-us"/>
-    <file name="index.css" crc="4270691151" ref="index"/>
-    <file name="404.css" crc="4235668878" ref="404"/>
-    <file name="about.css" crc="3953310625" ref="about"/>
-    <file name="contact-us.css" crc="4284849597" ref="contact-us"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_footer.css" crc="474563948" ref="index:about:contact:404"/>
+    <file name="master_header---footer.css" crc="3844755263" ref="index:about:contact:404"/>
+    <file name="index.css" crc="524186227" ref="index"/>
+    <file name="about.css" crc="471021896" ref="about"/>
+    <file name="contact.css" crc="98202068" ref="contact"/>
+    <file name="404.css" crc="146720700" ref="404"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:contact-us:404"/>
-    <file name="museutils.js" crc="183364071" ref="index:about:contact-us:404"/>
-    <file name="webpro.js" crc="3803554875" ref="index:about:contact-us:404"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index:about:contact-us:404"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index:about:contact-us:404"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index:about:contact-us:404"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:about:contact-us:404"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:contact:404"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:contact:404"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:about:contact:404"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:contact:404"/>
+    <file name="pie.js" crc="3827607177" ref="about"/>
   </folder>
   <folder name="images">
-    <file name="hoh_tp.png" crc="3880883856" seo="true" ref="index:about:contact-us:404"/>
-    <file name="pointer.png" crc="3760686964" seo="true" ref="index:about:contact-us:404"/>
-    <file name="menu_icon_05_black_3line.png" crc="4118792019" seo="true" ref="index:about:contact-us:404"/>
-    <file name="forwebsite.png" crc="3806353838" seo="true" ref="index:about:contact-us:404"/>
-    <file name="facebook-64.png" crc="265333087" seo="true" ref="index:about:contact-us:404"/>
-    <file name="instagram-64.png" crc="4045977240" seo="true" ref="index:about:contact-us:404"/>
-    <file name="hoh_tpwhite.png" crc="244354098" seo="true" ref="about"/>
-    <file name="logotp.png" crc="256733560" seo="true" ref="contact-us"/>
-    <file name="auuothsnyfhila_-8c5uhfi8qzvfcrage_c8pmu7tvfa.jpg" crc="3889674352" seo="true" ref="contact-us"/>
+    <file name="img_20150730_071156.jpg" crc="3871980767" ref="index:about:contact:404"/>
+    <file name="forwebsite.png" crc="486084118" seo="true" ref="index:about:contact:404"/>
+    <file name="hoh_tpwhite.png" crc="3901093905" seo="true" ref="index"/>
+    <file name="hoh-u168-fr.png" crc="4265756626" ref="about"/>
+    <file name="hoh_tp.png" crc="4006661681" seo="true" ref="about"/>
+    <file name="logotp.png" crc="52424755" seo="true" ref="contact"/>
+    <file name="facebook-1024.png" crc="45311662" seo="true" ref="contact"/>
+    <file name="instagram-1024.png" crc="3966258757" seo="true" ref="contact"/>
   </folder>
-  <file name="index.html" crc="4225297876" seo="true" mt="1437649538671" redirect="true"/>
-  <file name="about.html" crc="4069346853" seo="true" mt="1437549950120" redirect="true"/>
-  <file name="contact-us.html" crc="3957128116" seo="true" mt="1437550773947" redirect="true"/>
-  <file name="404.html" crc="222509026" seo="true" mt="1437649538671" redirect="true"/>
+  <file name="index.html" crc="4250012881" seo="true" mt="1439823430627" redirect="true"/>
+  <file name="about.html" crc="529593587" seo="true" mt="1439823430627" redirect="true"/>
+  <file name="contact.html" crc="4156503439" seo="true" mt="1439823430627" redirect="true"/>
+  <file name="404.html" crc="4116817188" seo="true" mt="1439823430627" redirect="true"/>
 </manifest>
